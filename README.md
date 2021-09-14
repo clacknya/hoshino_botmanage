@@ -1,2 +1,2 @@
-# hoshino_group_invite
-HoshinoBot 默认邀请加群实现替换
+# hoshino_botmanage
+HoshinoBot 默认模块 botmanage 实现替换
